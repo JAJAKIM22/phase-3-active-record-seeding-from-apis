@@ -15,4 +15,6 @@ Spell.create(
   )
 end
 
+
 puts "Done seeding!"
+
